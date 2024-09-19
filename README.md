@@ -3,7 +3,7 @@ Overview
 This repository implements a comprehensive pipeline for various computer vision tasks:
 
 Object Detection: Identifies objects in images and videos using YOLOv8.
-Instance Segmentation: Segments objects at the pixel level.
+Object Segmentation: Segments objects at the pixel level.
 Pose Estimation: Estimates human body poses through keypoint detection.
 Object Classification: Categorizes detected objects into predefined classes.
 Object Tracking: Tracks multiple objects using advanced algorithms like ByteTrack and BoT-SORT.
