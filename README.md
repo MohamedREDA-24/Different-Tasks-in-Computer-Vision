@@ -9,6 +9,7 @@ Object Classification: Categorizes detected objects into predefined classes.
 Object Tracking: Tracks multiple objects using advanced algorithms like ByteTrack and BoT-SORT.
 Car Speed Estimation: Calculates the speed of cars in video sequences.
 Custom Dataset Support: Trains and applies YOLOv8 for object detection and tracking on custom datasets.
+Instance Segmentation : Trains and applies YOLOv8 for Instance Segmentation on custom datasets.
 Key Components
 Object Detection: The YOLOv8 model is used to perform fast and accurate object detection.
 Segmentation: Provides pixel-level segmentation for each object detected.
